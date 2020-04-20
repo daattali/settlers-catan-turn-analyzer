@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react'
-import './index.css'
 import 'bootstrap/dist/css/bootstrap.min.css'
+import './index.css'
 import { Container, Row, Col, Button } from 'react-bootstrap'
 
 import Turn from './classes/Turn'

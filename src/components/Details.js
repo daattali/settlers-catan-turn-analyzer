@@ -1,5 +1,4 @@
 import React from 'react'
-import ReactJson from 'react-json-view'
 
 const Details = ({turns, players}) => {
   const parsedTurns = turns.map(({player, time, roll}) => {
@@ -9,7 +8,16 @@ const Details = ({turns, players}) => {
   })
 
   return (
-    <ReactJson src={parsedTurns} />
+    <div>
+    {turns.map(turn =>
+      <div key={turn.id}>
+        {turn.id}. {' '}
+        <strong>{players[turn.player]}</strong> {' '}
+        took {turn.time} seconds {' '}
+        {turn.roll === undefined ? null : `(rolled ${turn.roll})`}
+      </div>
+    )}
+    </div>
   )
 }
 

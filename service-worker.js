@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/settlers-catan-turn-analyzer/precache-manifest.e069dbb32a75c47ed5f118bdc170a7a8.js"
+  "/settlers-catan-turn-analyzer/precache-manifest.ba365b86e2eedfa64bbea13c5b9fbd85.js"
 );
 
 self.addEventListener('message', (event) => {

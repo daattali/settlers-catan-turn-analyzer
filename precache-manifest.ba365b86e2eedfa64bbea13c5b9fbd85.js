@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9a8efea9d61d23a64719d983c45d160d",
+    "revision": "62beed0c83b6608ca6aa117b0395725f",
     "url": "/settlers-catan-turn-analyzer/index.html"
   },
   {
-    "revision": "6f83af806424fe665d64",
+    "revision": "a83c4463cfe0fd354293",
     "url": "/settlers-catan-turn-analyzer/static/css/2.69121389.chunk.css"
   },
   {
-    "revision": "a198109f8fb12e43b6f6",
+    "revision": "a61817141faa06f20c53",
     "url": "/settlers-catan-turn-analyzer/static/css/main.3b0a4ebc.chunk.css"
   },
   {
-    "revision": "6f83af806424fe665d64",
-    "url": "/settlers-catan-turn-analyzer/static/js/2.1140f8c5.chunk.js"
+    "revision": "a83c4463cfe0fd354293",
+    "url": "/settlers-catan-turn-analyzer/static/js/2.1740da80.chunk.js"
   },
   {
     "revision": "aa754ba9f73776ab5291549b6092b0f0",
-    "url": "/settlers-catan-turn-analyzer/static/js/2.1140f8c5.chunk.js.LICENSE.txt"
+    "url": "/settlers-catan-turn-analyzer/static/js/2.1740da80.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a198109f8fb12e43b6f6",
-    "url": "/settlers-catan-turn-analyzer/static/js/main.8e879e8d.chunk.js"
+    "revision": "a61817141faa06f20c53",
+    "url": "/settlers-catan-turn-analyzer/static/js/main.6a3ba1eb.chunk.js"
   },
   {
     "revision": "9a5624969778881d0db8",

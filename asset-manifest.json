@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/settlers-catan-turn-analyzer/static/css/main.3b0a4ebc.chunk.css",
-    "main.js": "/settlers-catan-turn-analyzer/static/js/main.2b3b16ba.chunk.js",
-    "main.js.map": "/settlers-catan-turn-analyzer/static/js/main.2b3b16ba.chunk.js.map",
+    "main.js": "/settlers-catan-turn-analyzer/static/js/main.8e879e8d.chunk.js",
+    "main.js.map": "/settlers-catan-turn-analyzer/static/js/main.8e879e8d.chunk.js.map",
     "runtime-main.js": "/settlers-catan-turn-analyzer/static/js/runtime-main.b0b92ef8.js",
     "runtime-main.js.map": "/settlers-catan-turn-analyzer/static/js/runtime-main.b0b92ef8.js.map",
     "static/css/2.69121389.chunk.css": "/settlers-catan-turn-analyzer/static/css/2.69121389.chunk.css",
-    "static/js/2.d9cac946.chunk.js": "/settlers-catan-turn-analyzer/static/js/2.d9cac946.chunk.js",
-    "static/js/2.d9cac946.chunk.js.map": "/settlers-catan-turn-analyzer/static/js/2.d9cac946.chunk.js.map",
+    "static/js/2.1140f8c5.chunk.js": "/settlers-catan-turn-analyzer/static/js/2.1140f8c5.chunk.js",
+    "static/js/2.1140f8c5.chunk.js.map": "/settlers-catan-turn-analyzer/static/js/2.1140f8c5.chunk.js.map",
     "index.html": "/settlers-catan-turn-analyzer/index.html",
-    "precache-manifest.fbf826111745f3c7311596b55542b70d.js": "/settlers-catan-turn-analyzer/precache-manifest.fbf826111745f3c7311596b55542b70d.js",
+    "precache-manifest.e069dbb32a75c47ed5f118bdc170a7a8.js": "/settlers-catan-turn-analyzer/precache-manifest.e069dbb32a75c47ed5f118bdc170a7a8.js",
     "service-worker.js": "/settlers-catan-turn-analyzer/service-worker.js",
     "static/css/2.69121389.chunk.css.map": "/settlers-catan-turn-analyzer/static/css/2.69121389.chunk.css.map",
     "static/css/main.3b0a4ebc.chunk.css.map": "/settlers-catan-turn-analyzer/static/css/main.3b0a4ebc.chunk.css.map",
-    "static/js/2.d9cac946.chunk.js.LICENSE.txt": "/settlers-catan-turn-analyzer/static/js/2.d9cac946.chunk.js.LICENSE.txt"
+    "static/js/2.1140f8c5.chunk.js.LICENSE.txt": "/settlers-catan-turn-analyzer/static/js/2.1140f8c5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.b0b92ef8.js",
     "static/css/2.69121389.chunk.css",
-    "static/js/2.d9cac946.chunk.js",
+    "static/js/2.1140f8c5.chunk.js",
     "static/css/main.3b0a4ebc.chunk.css",
-    "static/js/main.2b3b16ba.chunk.js"
+    "static/js/main.8e879e8d.chunk.js"
   ]
 }

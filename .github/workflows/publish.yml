@@ -1,0 +1,27 @@
+name: Publish settlers analyzer to https://daattali.github.io/settlers-catan-turn-analyzer
+
+on:
+  pull_request:
+    branches:
+      - master
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        node-version: [13.x]
+
+    steps:
+    - name: Checkout settlers-catan-turn-analyzer repo
+      uses: actions/checkout@v2
+    - name: Use Node.js ${{ matrix.node-version }}
+      uses: actions/setup-node@v1
+      with:
+        node-version: ${{ matrix.node-version }}
+    - name: Install Node dependecies
+      run: npm install
+    - name: Publish project to https://daattali.github.io/settlers-catan-turn-analyzer
+      run: npm run depoy

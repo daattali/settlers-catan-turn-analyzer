@@ -2,6 +2,7 @@ import React from 'react'
 
 const Header = () =>
   <div>
+    test
     <h1>Settlers of Catan Turn Analyzer</h1>
     <div>
       You <strong>really</strong> think that 4 came up more than the 8? {' '}
